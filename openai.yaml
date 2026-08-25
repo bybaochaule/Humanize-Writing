@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanize Writing"
+  short_description: "Macht KI-Texte natürlich und menschlich"
+  default_prompt: "Nutze $humanize-writing, um diesen Text natürlich und menschlich umzuschreiben, ohne seine Bedeutung zu verändern."
