@@ -1,7 +1,5 @@
 # Humanize Writing
 
-![Humanize Writing – ChatGPT Skill](assets/thumbnail.png)
-
 Ein deutschsprachiger ChatGPT-Skill, der steif oder KI-typisch klingende Texte in natürliche, glaubwürdige Sprache verwandelt – ohne Fakten, Aussage oder persönliche Stimme zu verfälschen.
 
 ## Was dieser Skill macht
